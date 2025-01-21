@@ -6,3 +6,4 @@ Hello! I'm Rishi Ratheesh a passionate Computer Science and Engineering (CSE) st
 
 ### 🧰 Languages and Tools
         <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+#
