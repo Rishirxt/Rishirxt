@@ -30,13 +30,6 @@ Hello! I'm Rishi Ratheesh — a Computer Science and Engineering (CSE) student s
 - Prompt engineering and LLM tooling
 - Building reproducible ML pipelines and deploying lightweight models
 
-### 🗂️ Selected Projects
-- Image Classification Pipeline — dataset prep, augmentation, baseline models, evaluation
-- Text Sentiment Analyzer — preprocessing, classical ML baselines, comparison metrics
-- End-to-End ML Workflow — experiment tracking, versioning, and simple model serving
-
-> If you’re interested in any project above, I’m happy to share details, code structure, and learnings.
-
 ### 🤝 Collaboration
 I enjoy collaborating on open-source ML tools, learning-focused communities, and research-y prototypes. Open to internships, project collabs, and hackathons.
 
