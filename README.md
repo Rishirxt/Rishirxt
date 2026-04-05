@@ -13,3 +13,15 @@ Hello! I'm Rishi Ratheesh — a Computer Science and Engineering (CSE) student s
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <br/>
 
+
+Fluent in **Python, C/C++, JS/TS, Java** and more...
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishirxt&layout=donut&theme=dark)
+
+---
+
+## 📊 Github Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishirxt&show_icons=true&theme=dark&count_private=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishirxt&theme=react-dark)
