@@ -26,4 +26,3 @@ Fluent in **Python, C/C++, JS/TS, Java** and more...
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Rishirxt&show_icons=true&theme=dark&count_private=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishirxt&theme=react-dark)
