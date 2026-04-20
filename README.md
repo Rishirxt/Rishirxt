@@ -15,5 +15,5 @@ Hello! I'm Rishi Ratheesh — a Computer Science and Engineering (CSE) student s
 
 ## 📊 Github Statistics
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Rishirxt&show_icons=true&theme=dark&count_private=true) | ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Rishirxt&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Rishirxt&show_icons=true&theme=dark&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishirxt&layout=compact&theme=dark)
 
