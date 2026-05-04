@@ -1,4 +1,4 @@
-# 👾 Rishi Ratheesh
+#  Rishi Ratheesh
 
 **`Digital Craftsman`**
 
