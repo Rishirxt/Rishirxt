@@ -2,24 +2,25 @@
 
 # Rishi Ratheesh
 
-### Digital Craftsman
-
+### Digital Craftsman 
 </div>
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="60%" valign="middle">
 
 ## 👋 About Me
 
-Hello! I'm Rishi Ratheesh — a Computer Science and Engineering (CSE) student specializing in Artificial Intelligence and Machine Learning (AI/ML). I'm passionate about building intelligent systems and leveraging data to solve real-world problems across computer vision, NLP, and MLOps.
+Hello! I'm Rishi Ratheesh — a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. I'm passionate about building intelligent systems and leveraging data to solve real-world problems across computer vision, NLP, and MLOps.
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="koi/koi.gif" width="256" alt="My Git Koi" />
+<img src="koi/koi.gif" width="350" alt="My Git Koi" />
 
-*Swimming through my GitHub activity 🐟*
+<br/>
+
+<em>Swimming through my GitHub activity 🐟</em>
 
 </td>
 </tr>
@@ -39,6 +40,6 @@ Hello! I'm Rishi Ratheesh — a Computer Science and Engineering (CSE) student s
 
 <div align="center">
 
-*Always learning. Always building.*
+<em>Always learning. Always building.</em>
 
 </div>
