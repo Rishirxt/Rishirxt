@@ -29,9 +29,3 @@ Hello! I'm Rishi Ratheesh — a Computer Science and Engineering student special
 </div>
 
 ---
-
-<div align="center">
-
-*Always learning. Always building.*
-
-</div>
