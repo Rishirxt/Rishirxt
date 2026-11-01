@@ -7,3 +7,4 @@ about building intelligent systems and leveraging data to solve real-world probl
 ## 📊 Github Statistics                                                                                                     
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Rishirxt&show_icons=true&theme=dark&count_private=true)  
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
