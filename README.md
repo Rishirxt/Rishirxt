@@ -2,7 +2,7 @@
 
 # Rishi Ratheesh
 
-### Digital Craftsman · CSE (AI/ML) @ VIT Chennai
+### Digital Craftsman
 
 </div>
 
